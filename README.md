@@ -12,6 +12,8 @@ Até onde me lembro sempre fui apaixonado por tecnologia, acredito que a tecnolo
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizDionizio&show_icons=true&theme=radical)
 
 
